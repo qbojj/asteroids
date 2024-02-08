@@ -1,0 +1,216 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  DirectSound.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\DirectSound.cpp': No such file or directory
+  GameObj.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\GameObj.cpp': No such file or directory
+  GameObjsArray.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\GameObjsArray.cpp': No such file or directory
+  GameThread.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\GameThread.cpp': No such file or directory
+  MsgWrapper.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\MsgWrapper.cpp': No such file or directory
+  NNDataCollector.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\NNDataCollector.cpp': No such file or directory
+  TGraphics.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Asteroids_NN\TGraphics.cpp': No such file or directory
+  AnnPlayer.cpp
+f:\dx7sdk\include\d3dtypes.h(112): error C2011: '_D3DCOLORVALUE': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(65): note: see declaration of '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(131): error C2011: '_D3DRECT': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(75): note: see declaration of '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(150): error C2011: '_D3DVECTOR': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(56): note: see declaration of '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(423): error C2011: '_D3DMATRIX': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(91): note: see declaration of '_D3DMATRIX'
+f:\dx7sdk\include\d3dtypes.h(623): error C2079: '_D3DTRANSFORMDATA::drExtent' uses undefined struct '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(630): error C2079: '_D3DLIGHTINGELEMENT::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(631): error C2079: '_D3DLIGHTINGELEMENT::dvNormal' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(640): error C2079: '_D3DMATERIAL::diffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(641): error C2079: '_D3DMATERIAL::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(644): error C2079: '_D3DMATERIAL::ambient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(645): error C2079: '_D3DMATERIAL::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(648): error C2079: '_D3DMATERIAL::specular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(649): error C2079: '_D3DMATERIAL::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(652): error C2079: '_D3DMATERIAL::emissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(653): error C2079: '_D3DMATERIAL::dcvEmissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(667): error C2079: '_D3DMATERIAL7::diffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(668): error C2079: '_D3DMATERIAL7::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(671): error C2079: '_D3DMATERIAL7::ambient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(672): error C2079: '_D3DMATERIAL7::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(675): error C2079: '_D3DMATERIAL7::specular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(676): error C2079: '_D3DMATERIAL7::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(679): error C2079: '_D3DMATERIAL7::emissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(680): error C2079: '_D3DMATERIAL7::dcvEmissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(690): error C2011: '_D3DLIGHTTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(180): note: see declaration of '_D3DLIGHTTYPE'
+f:\dx7sdk\include\d3dtypes.h(709): error C2079: '_D3DLIGHT::dcvColor' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(710): error C2079: '_D3DLIGHT::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(711): error C2079: '_D3DLIGHT::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(725): error C2079: '_D3DLIGHT7::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(726): error C2079: '_D3DLIGHT7::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(727): error C2079: '_D3DLIGHT7::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(728): error C2079: '_D3DLIGHT7::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(729): error C2079: '_D3DLIGHT7::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(757): error C2079: '_D3DLIGHT2::dcvColor' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(758): error C2079: '_D3DLIGHT2::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(759): error C2079: '_D3DLIGHT2::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(859): error C2011: '_D3DSHADEMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(214): note: see declaration of '_D3DSHADEMODE'
+f:\dx7sdk\include\d3dtypes.h(868): error C2011: '_D3DFILLMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(221): note: see declaration of '_D3DFILLMODE'
+f:\dx7sdk\include\d3dtypes.h(894): error C2011: '_D3DBLEND': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(228): note: see declaration of '_D3DBLEND'
+f:\dx7sdk\include\d3dtypes.h(927): error C2011: '_D3DTEXTUREADDRESS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(264): note: see declaration of '_D3DTEXTUREADDRESS'
+f:\dx7sdk\include\d3dtypes.h(937): error C2011: '_D3DCULL': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(273): note: see declaration of '_D3DCULL'
+f:\dx7sdk\include\d3dtypes.h(946): error C2011: '_D3DCMPFUNC': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(280): note: see declaration of '_D3DCMPFUNC'
+f:\dx7sdk\include\d3dtypes.h(961): error C2011: '_D3DSTENCILOP': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(292): note: see declaration of '_D3DSTENCILOP'
+f:\dx7sdk\include\d3dtypes.h(974): error C2011: '_D3DFOGMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(304): note: see declaration of '_D3DFOGMODE'
+f:\dx7sdk\include\d3dtypes.h(985): error C2011: '_D3DZBUFFERTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(312): note: see declaration of '_D3DZBUFFERTYPE'
+f:\dx7sdk\include\d3dtypes.h(1010): error C2011: '_D3DPRIMITIVETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(320): note: see declaration of '_D3DPRIMITIVETYPE'
+f:\dx7sdk\include\d3dtypes.h(1031): error C2011: '_D3DTRANSFORMSTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(330): note: see declaration of '_D3DTRANSFORMSTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1069): error C2011: '_D3DRENDERSTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(350): note: see declaration of '_D3DRENDERSTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1229): error C2011: '_D3DMATERIALCOLORSOURCE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(463): note: see declaration of '_D3DMATERIALCOLORSOURCE'
+f:\dx7sdk\include\d3dtypes.h(1323): error C2011: '_D3DTEXTURESTAGESTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(495): note: see declaration of '_D3DTEXTURESTAGESTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1369): error C2011: '_D3DTEXTUREOP': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(568): note: see declaration of '_D3DTEXTUREOP'
+f:\dx7sdk\include\d3dtypes.h(1575): error C2079: '_D3DSTATUS::drExtent' uses undefined struct '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(1675): warning C4005: 'D3DFVF_POSITION_MASK': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(672): note: see previous definition of 'D3DFVF_POSITION_MASK'
+f:\dx7sdk\include\d3dtypes.h(1703): warning C4005: 'D3DFVF_RESERVED2': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(702): note: see previous definition of 'D3DFVF_RESERVED2'
+f:\dx7sdk\include\d3dtypes.h(1770): error C2011: '_D3DSTATEBLOCKTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1251): note: see declaration of '_D3DSTATEBLOCKTYPE'
+f:\dx7sdk\include\d3dtypes.h(1780): error C2011: '_D3DVERTEXBLENDFLAGS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1261): note: see declaration of '_D3DVERTEXBLENDFLAGS'
+f:\dx7sdk\include\d3dtypes.h(1787): error C2011: '_D3DTEXTURETRANSFORMFLAGS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1272): note: see declaration of '_D3DTEXTURETRANSFORMFLAGS'
+f:\dx7sdk\include\dsound.h(150): error C2079: '_DS3DBUFFER::vPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(151): error C2079: '_DS3DBUFFER::vVelocity' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(154): error C2079: '_DS3DBUFFER::vConeOrientation' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(166): error C2079: '_DS3DLISTENER::vPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(167): error C2079: '_DS3DLISTENER::vVelocity' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(168): error C2079: '_DS3DLISTENER::vOrientFront' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(169): error C2079: '_DS3DLISTENER::vOrientTop' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(419): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(420): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(422): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(490): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(495): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(496): error C2061: syntax error: identifier 'LPD3DVECTOR'
+  linking with Microsoft's DirectSound library ...
+h:\visualstudioprojects\kanntest\annplayer.cpp(24): error C2065: 'm_pAnn': undeclared identifier
+  kann.cpp
+  KannTest.cpp
+f:\dx7sdk\include\d3dtypes.h(112): error C2011: '_D3DCOLORVALUE': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(65): note: see declaration of '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(131): error C2011: '_D3DRECT': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(75): note: see declaration of '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(150): error C2011: '_D3DVECTOR': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(56): note: see declaration of '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(423): error C2011: '_D3DMATRIX': 'struct' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(91): note: see declaration of '_D3DMATRIX'
+f:\dx7sdk\include\d3dtypes.h(623): error C2079: '_D3DTRANSFORMDATA::drExtent' uses undefined struct '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(630): error C2079: '_D3DLIGHTINGELEMENT::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(631): error C2079: '_D3DLIGHTINGELEMENT::dvNormal' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(640): error C2079: '_D3DMATERIAL::diffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(641): error C2079: '_D3DMATERIAL::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(644): error C2079: '_D3DMATERIAL::ambient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(645): error C2079: '_D3DMATERIAL::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(648): error C2079: '_D3DMATERIAL::specular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(649): error C2079: '_D3DMATERIAL::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(652): error C2079: '_D3DMATERIAL::emissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(653): error C2079: '_D3DMATERIAL::dcvEmissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(667): error C2079: '_D3DMATERIAL7::diffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(668): error C2079: '_D3DMATERIAL7::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(671): error C2079: '_D3DMATERIAL7::ambient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(672): error C2079: '_D3DMATERIAL7::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(675): error C2079: '_D3DMATERIAL7::specular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(676): error C2079: '_D3DMATERIAL7::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(679): error C2079: '_D3DMATERIAL7::emissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(680): error C2079: '_D3DMATERIAL7::dcvEmissive' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(690): error C2011: '_D3DLIGHTTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(180): note: see declaration of '_D3DLIGHTTYPE'
+f:\dx7sdk\include\d3dtypes.h(709): error C2079: '_D3DLIGHT::dcvColor' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(710): error C2079: '_D3DLIGHT::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(711): error C2079: '_D3DLIGHT::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(725): error C2079: '_D3DLIGHT7::dcvDiffuse' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(726): error C2079: '_D3DLIGHT7::dcvSpecular' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(727): error C2079: '_D3DLIGHT7::dcvAmbient' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(728): error C2079: '_D3DLIGHT7::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(729): error C2079: '_D3DLIGHT7::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(757): error C2079: '_D3DLIGHT2::dcvColor' uses undefined struct '_D3DCOLORVALUE'
+f:\dx7sdk\include\d3dtypes.h(758): error C2079: '_D3DLIGHT2::dvPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(759): error C2079: '_D3DLIGHT2::dvDirection' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\d3dtypes.h(859): error C2011: '_D3DSHADEMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(214): note: see declaration of '_D3DSHADEMODE'
+f:\dx7sdk\include\d3dtypes.h(868): error C2011: '_D3DFILLMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(221): note: see declaration of '_D3DFILLMODE'
+f:\dx7sdk\include\d3dtypes.h(894): error C2011: '_D3DBLEND': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(228): note: see declaration of '_D3DBLEND'
+f:\dx7sdk\include\d3dtypes.h(927): error C2011: '_D3DTEXTUREADDRESS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(264): note: see declaration of '_D3DTEXTUREADDRESS'
+f:\dx7sdk\include\d3dtypes.h(937): error C2011: '_D3DCULL': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(273): note: see declaration of '_D3DCULL'
+f:\dx7sdk\include\d3dtypes.h(946): error C2011: '_D3DCMPFUNC': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(280): note: see declaration of '_D3DCMPFUNC'
+f:\dx7sdk\include\d3dtypes.h(961): error C2011: '_D3DSTENCILOP': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(292): note: see declaration of '_D3DSTENCILOP'
+f:\dx7sdk\include\d3dtypes.h(974): error C2011: '_D3DFOGMODE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(304): note: see declaration of '_D3DFOGMODE'
+f:\dx7sdk\include\d3dtypes.h(985): error C2011: '_D3DZBUFFERTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(312): note: see declaration of '_D3DZBUFFERTYPE'
+f:\dx7sdk\include\d3dtypes.h(1010): error C2011: '_D3DPRIMITIVETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(320): note: see declaration of '_D3DPRIMITIVETYPE'
+f:\dx7sdk\include\d3dtypes.h(1031): error C2011: '_D3DTRANSFORMSTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(330): note: see declaration of '_D3DTRANSFORMSTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1069): error C2011: '_D3DRENDERSTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(350): note: see declaration of '_D3DRENDERSTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1229): error C2011: '_D3DMATERIALCOLORSOURCE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(463): note: see declaration of '_D3DMATERIALCOLORSOURCE'
+f:\dx7sdk\include\d3dtypes.h(1323): error C2011: '_D3DTEXTURESTAGESTATETYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(495): note: see declaration of '_D3DTEXTURESTAGESTATETYPE'
+f:\dx7sdk\include\d3dtypes.h(1369): error C2011: '_D3DTEXTUREOP': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(568): note: see declaration of '_D3DTEXTUREOP'
+f:\dx7sdk\include\d3dtypes.h(1575): error C2079: '_D3DSTATUS::drExtent' uses undefined struct '_D3DRECT'
+f:\dx7sdk\include\d3dtypes.h(1675): warning C4005: 'D3DFVF_POSITION_MASK': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(672): note: see previous definition of 'D3DFVF_POSITION_MASK'
+f:\dx7sdk\include\d3dtypes.h(1703): warning C4005: 'D3DFVF_RESERVED2': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(702): note: see previous definition of 'D3DFVF_RESERVED2'
+f:\dx7sdk\include\d3dtypes.h(1770): error C2011: '_D3DSTATEBLOCKTYPE': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1251): note: see declaration of '_D3DSTATEBLOCKTYPE'
+f:\dx7sdk\include\d3dtypes.h(1780): error C2011: '_D3DVERTEXBLENDFLAGS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1261): note: see declaration of '_D3DVERTEXBLENDFLAGS'
+f:\dx7sdk\include\d3dtypes.h(1787): error C2011: '_D3DTEXTURETRANSFORMFLAGS': 'enum' type redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\d3d9types.h(1272): note: see declaration of '_D3DTEXTURETRANSFORMFLAGS'
+f:\dx7sdk\include\dsound.h(150): error C2079: '_DS3DBUFFER::vPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(151): error C2079: '_DS3DBUFFER::vVelocity' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(154): error C2079: '_DS3DBUFFER::vConeOrientation' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(166): error C2079: '_DS3DLISTENER::vPosition' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(167): error C2079: '_DS3DLISTENER::vVelocity' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(168): error C2079: '_DS3DLISTENER::vOrientFront' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(169): error C2079: '_DS3DLISTENER::vOrientTop' uses undefined struct '_D3DVECTOR'
+f:\dx7sdk\include\dsound.h(419): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(420): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(422): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(490): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(495): error C2061: syntax error: identifier 'LPD3DVECTOR'
+f:\dx7sdk\include\dsound.h(496): error C2061: syntax error: identifier 'LPD3DVECTOR'
+  linking with Microsoft's DirectSound library ...
+h:\visualstudioprojects\kanntest\kanntest.cpp(208): error C2039: 'm_pAnn': is not a member of 'CAnnPlayer'
+  h:\visualstudioprojects\kanntest\annplayer.h(16): note: see declaration of 'CAnnPlayer'
+  kautodiff.cpp
+  MyKann.cpp
+  StdAfx2.cpp
+  Generating Code...

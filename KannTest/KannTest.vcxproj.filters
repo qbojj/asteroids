@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6d707264-e216-453f-947c-86a9a9ab48ff}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Asteroids Source">
+      <UniqueIdentifier>{c32ee6bc-8feb-4e6f-8da1-de31d9aafdc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4c67bdf9-8a48-4787-a3e4-95e6b3ddba9e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Asteroids Headers">
+      <UniqueIdentifier>{1f8a650a-4700-42e9-ab71-7535ec403116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{c19333db-f015-452a-8773-7cc0b021f7e1}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Asteroids_NN\DirectSound.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\GameObj.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\GameObjsArray.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\NNDataCollector.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx2.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\TGraphics.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="AnnPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kann.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KannTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kautodiff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyKann.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\MsgWrapper.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Asteroids_NN\GameThread.cpp">
+      <Filter>Source Files\Asteroids Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Asteroids_NN\GameObj.h">
+      <Filter>Header Files\Asteroids Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Asteroids_NN\GameObjsArray.h">
+      <Filter>Header Files\Asteroids Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Asteroids_NN\NNDataCollector.h">
+      <Filter>Header Files\Asteroids Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="AnnPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kann.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kautodiff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyKann.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Asteroids_NN\GameThread.h">
+      <Filter>Header Files\Asteroids Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Asteroids - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSPE955.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /I "f:\dx7sdk\include" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Asteroids.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"H:\VisualStudioProjects\Asteroids_Antiallias\AsteroidsView.cpp"
+"H:\VisualStudioProjects\Asteroids_Antiallias\ConfigDlg.cpp"
+"H:\VisualStudioProjects\Asteroids_Antiallias\GameObj.cpp"
+"H:\VisualStudioProjects\Asteroids_Antiallias\GameObjsArray.cpp"
+"H:\VisualStudioProjects\Asteroids_Antiallias\TGraphics.cpp"
+]
+Creating command line "cl.exe @C:\Users\Kuba\AppData\Local\Temp\RSPE955.tmp" 
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSPE956.tmp" with contents
+[
+Winmm.lib dinput.lib rpcrt4.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Asteroids.pdb" /debug /machine:I386 /out:"Debug/Asteroids.exe" /pdbtype:sept /libpath:"f:\dx7sdk\lib" 
+.\Debug\Asteroids.obj
+.\Debug\AsteroidsDoc.obj
+.\Debug\AsteroidsView.obj
+.\Debug\ConfigDlg.obj
+.\Debug\DIJoystick.obj
+.\Debug\DirectSound.obj
+.\Debug\EndApp.obj
+.\Debug\GameObj.obj
+.\Debug\GameObjsArray.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\TGraphics.obj
+.\Debug\Asteroids.res
+]
+Creating command line "link.exe @C:\Users\Kuba\AppData\Local\Temp\RSPE956.tmp"
+<h3>Output Window</h3>
+Compiling...
+AsteroidsView.cpp
+Generating Code...
+linking with Microsoft's DirectSound library ...
+Compiling...
+ConfigDlg.cpp
+GameObj.cpp
+linking with Microsoft's DirectSound library ...
+GameObjsArray.cpp
+linking with Microsoft's DirectSound library ...
+TGraphics.cpp
+linking with Microsoft's DirectSound library ...
+Generating Code...
+linking with Microsoft's DirectSound library ...
+Linking...
+
+
+
+<h3>Results</h3>
+Asteroids.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Asteroids - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSPF859.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /I "f:\dx7sdk\include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/Asteroids.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\VisualStudioProjects\Asteroids\Asteroids_NN_Player\NNDataCollector.cpp"
+]
+Creating command line "cl.exe @C:\Users\Kuba\AppData\Local\Temp\RSPF859.tmp" 
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSPF85A.tmp" with contents
+[
+Winmm.lib dinput.lib rpcrt4.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Asteroids.pdb" /debug /machine:I386 /out:"Release/Asteroids.exe" /libpath:"f:\dx7sdk\lib" 
+.\Release\Asteroids.obj
+.\Release\AsteroidsDoc.obj
+.\Release\AsteroidsView.obj
+.\Release\ConfigDlg.obj
+.\Release\DIJoystick.obj
+.\Release\DirectSound.obj
+.\Release\EndApp.obj
+.\Release\GameObj.obj
+.\Release\GameObjsArray.obj
+.\Release\GameThread.obj
+.\Release\kann.obj
+.\Release\kautodiff.obj
+.\Release\MainFrm.obj
+.\Release\MsgWrapper.obj
+.\Release\MyDialog.obj
+.\Release\MyKann.obj
+.\Release\NNDataCollector.obj
+.\Release\StdAfx.obj
+.\Release\TGraphics.obj
+.\Release\Asteroids.res
+]
+Creating command line "link.exe @C:\Users\Kuba\AppData\Local\Temp\RSPF85A.tmp"
+<h3>Output Window</h3>
+Compiling...
+NNDataCollector.cpp
+linking with Microsoft's DirectSound library ...
+Linking...
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSPFBD6.tmp" with contents
+[
+/nologo /o"Release/Asteroids.bsc" 
+.\Release\StdAfx.sbr
+.\Release\Asteroids.sbr
+.\Release\AsteroidsDoc.sbr
+.\Release\AsteroidsView.sbr
+.\Release\ConfigDlg.sbr
+.\Release\DIJoystick.sbr
+.\Release\DirectSound.sbr
+.\Release\EndApp.sbr
+.\Release\GameObj.sbr
+.\Release\GameObjsArray.sbr
+.\Release\GameThread.sbr
+.\Release\kann.sbr
+.\Release\kautodiff.sbr
+.\Release\MainFrm.sbr
+.\Release\MsgWrapper.sbr
+.\Release\MyDialog.sbr
+.\Release\MyKann.sbr
+.\Release\NNDataCollector.sbr
+.\Release\TGraphics.sbr]
+Creating command line "bscmake.exe @C:\Users\Kuba\AppData\Local\Temp\RSPFBD6.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Asteroids.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

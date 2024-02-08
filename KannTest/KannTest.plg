@@ -1,0 +1,68 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: KannTest - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSP206C.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /Ob2 /I "f:\dx7sdk\include" /I "..\Asteroids_NN\\" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /D "_AFXDLL" /FR"Release/" /Fp"Release/KannTest.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\VisualStudioProjects\KannTest\AnnPlayer.cpp"
+"H:\VisualStudioProjects\KannTest\KannTest.cpp"
+]
+Creating command line "cl.exe @C:\Users\Kuba\AppData\Local\Temp\RSP206C.tmp" 
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSP207C.tmp" with contents
+[
+Winmm.lib dinput.lib rpcrt4.lib /nologo /subsystem:console /profile /map:"Release/KannTest.map" /debug /machine:I386 /out:"Release/KannTest.exe" /libpath:"f:\dx7sdk\lib" 
+.\Release\DirectSound.obj
+.\Release\GameObj.obj
+.\Release\GameObjsArray.obj
+.\Release\GameThread.obj
+.\Release\MsgWrapper.obj
+.\Release\NNDataCollector.obj
+.\Release\TGraphics.obj
+.\Release\AnnPlayer.obj
+.\Release\kann.obj
+.\Release\KannTest.obj
+.\Release\kautodiff.obj
+.\Release\MyKann.obj
+.\Release\StdAfx.obj
+]
+Creating command line "link.exe @C:\Users\Kuba\AppData\Local\Temp\RSP207C.tmp"
+<h3>Output Window</h3>
+Compiling...
+AnnPlayer.cpp
+KannTest.cpp
+linking with Microsoft's DirectSound library ...
+Generating Code...
+linking with Microsoft's DirectSound library ...
+Linking...
+Creating temporary file "C:\Users\Kuba\AppData\Local\Temp\RSP2271.tmp" with contents
+[
+/nologo /o"Release/KannTest.bsc" 
+.\Release\StdAfx.sbr
+.\Release\DirectSound.sbr
+.\Release\GameObj.sbr
+.\Release\GameObjsArray.sbr
+.\Release\GameThread.sbr
+.\Release\MsgWrapper.sbr
+.\Release\NNDataCollector.sbr
+.\Release\TGraphics.sbr
+.\Release\AnnPlayer.sbr
+.\Release\kann.sbr
+.\Release\KannTest.sbr
+.\Release\kautodiff.sbr
+.\Release\MyKann.sbr]
+Creating command line "bscmake.exe @C:\Users\Kuba\AppData\Local\Temp\RSP2271.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+KannTest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

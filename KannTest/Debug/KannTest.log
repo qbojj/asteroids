@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  KannTest.cpp
+  linking with Microsoft's DirectSound library ...
+  KannTest.vcxproj -> C:\Users\Kuba\Desktop\KannTest\.\Debug\KannTest.exe

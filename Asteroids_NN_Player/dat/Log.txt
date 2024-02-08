@@ -1,0 +1,7 @@
+Can't open "snd\lasersmall.wav"
+Can't open "snd\laserbig.wav"
+Can't open "snd\hyperspace.wav"
+Can't open "snd\explode.wav"
+Can't open "snd\ufoend.wav"
+Can't open "snd\cosmicmusic.wav"
+Can't open "snd\gameover.wav"
